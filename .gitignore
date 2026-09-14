@@ -1,4 +1,8 @@
 venv/
 .vscode/
+master
 __pycache__/
 .env
+=======
+ main
+
